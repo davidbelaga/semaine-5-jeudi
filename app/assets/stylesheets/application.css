@@ -12,4 +12,23 @@
  *
  *= require_tree .
  *= require_self
- */
+
+ .titre {
+ 	color: #9BC1BC;
+ }
+
+.container-fluid {
+	background-color: #5CA4A9;
+	 	height: 5em;
+
+}
+
+.container {
+	background-color: #ED6A5A
+}
+
+.navbar a{
+	color: #F4F1BB;
+}
+
+*/

@@ -5,7 +5,10 @@ ruby '2.5.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
-
+gem 'bcrypt',         '3.1.12'
+gem 'rails-ujs', '~> 0.1.0'
+gem 'bootstrap'
+gem 'jquery-rails'
 group :development do
   gem 'sqlite3'
 end
